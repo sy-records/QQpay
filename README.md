@@ -12,12 +12,12 @@ GitHub项目地址：[https://github.com/sy-records/QQpay](https://github.com/sy
 
 # 文件对应说明
 
- native_qrcode Native扫码支付
- order_query 支付查询
- download_bill 对账单接口
- refund 退款接口
- refund_query 退款查询接口
- notify_url 通用通知接口
+ native_qrcode Native扫码支付  
+ order_query 支付查询  
+ download_bill 对账单接口  
+ refund 退款接口  
+ refund_query 退款查询接口  
+ notify_url 通用通知接口  
 
 # 若对您有帮助，可以赞助并支持下作者哦，谢谢！
 
